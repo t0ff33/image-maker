@@ -1,6 +1,6 @@
 import requests
 
-api_key = "sk-TaniHE58ucoyl0BJewBhKTdYoKpnwBZoIzSixyjGisqsnAUg"
+api_key = "sk-your_api_key_here" ^ # Replace with your actual API key
 url = "https://api.stability.ai/v2beta/stable-image/generate/core"
 
 headers = {
